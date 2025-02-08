@@ -19,7 +19,7 @@ let loadHome = function(){
     <p><strong>Phone:</strong> (123-456-7890)</p>
     <p><strong>Email:</strong> <a href="#">contact@berrybliss.com</a></p>
     <p><strong>Address:</strong> 123 Berry Lane, Fruitville, FL 98765</p>
-    <p><strong>Opening Hours:</strong> Monday - Friday: 8 AM - 8 PM | Saturday - Sunday: 9 AM - 6 PM</p>
+    <p><strong>Opening Hours:</strong> Monday - Friday: 8 AM - 8 PM | Saturday: 9 AM - 6 PM</p>
 </div>
 
 <footer>
