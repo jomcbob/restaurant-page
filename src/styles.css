@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    background-color: black;
+    background-image: url(./img/food.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 0;
+  }
+
+  header{
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    background-color:rgba(84, 82, 82, 0.2);
+  }
+
+  nav {
+    display: flex;
+    gap: 10vh;
+  }
+
+  nav button{
+    background-color: blanchedalmond;
+    border: none;
+    border-radius: 10px;
+    height: 4vh;
+    width: 10vw;
+    margin-top: 2vh;
+  }
+
+  #content {
+    width: 50vw;
+    color: white;
+    padding: 20px;
+    margin-top: 2vh;
+    border-radius: 7px;
+  }
+
+  button:hover {
+    opacity: 70%;
+  }
